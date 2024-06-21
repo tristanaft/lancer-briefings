@@ -95,11 +95,19 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "The Drop",
           "status": "start"
         },
       ],
       "pilots": [
+       {
+          "callsign": "N4N0",
+          "alias": "Isambard Brunel",
+          "code": "99ee4b67-feef-46a7-a44e-74ab1bfaabe3",
+          "corpro": "GMS",
+          "frame": "Chomolungma",
+          "mech": "BYT3"
+        },
         {
           "callsign": "Jinzo",
           "alias": "Shayan Arsenal",
