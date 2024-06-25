@@ -100,14 +100,6 @@ export default {
         },
       ],
       "pilots": [
-       {
-          "callsign": "N4N0",
-          "alias": "Isambard Brunel",
-          "code": "99ee4b67-feef-46a7-a44e-74ab1bfaabe3//NDL-C-SORROW-EYE",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "BYT3"
-        },
         {
           "callsign": "Grim",
           "alias": "Felix Kaiser",
@@ -115,6 +107,14 @@ export default {
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "Uncomfortably Vague"
+        },
+        {
+          "callsign": "N4N0",
+          "alias": "Isambard Brunel",
+          "code": "99ee4b67-feef-46a7-a44e-74ab1bfaabe3//NDL-C-SORROW-EYE",
+          "corpro": "GMS",
+          "frame": "Chomolungma",
+          "mech": "BYT3"
         },
         {
           "callsign": "Rambo",
@@ -135,10 +135,18 @@ export default {
         {
           "callsign": "Vicar",
           "alias": "Ehrengard Reiswig",
-          "code": "4ecc0a0d-b43e-4a0c-b1b0-8e2664f9c008//NDL-C-SINGULARITY-REACH ",
+          "code": "4ecc0a0d-b43e-4a0c-b1b0-8e2664f9c008//NDL-C-SINGULARITY-REACH",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "IMHU11U"
+        },
+        {
+          "callsign": "X-S",
+          "alias": "Xander Slayton",
+          "code": "3d11df3a-89c9-4b18-b185-bb797d028c11//NDL-C-STONE-ROYAL ",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Megatron"
         }
       ],
       "header": {
