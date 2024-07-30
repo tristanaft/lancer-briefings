@@ -118,14 +118,14 @@ export default {
         },
         {
           "callsign": "Rambo",
-          "alias": "Stanley Barnsburger",
+          "alias": "Stanley Spud",
           "code": "a3b7fe44-93f8-4ed5-a9ec-f47761bc3c5b//NDL-C-DELTA-CROSS",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Century"
         },
         {
-          "callsign": "sLAUGHTER",
+          "callsign": "Whisper",
           "alias": "Warai Otoko",
           "code": "516132e9-b137-42a3-93af-b58eee403fbb//NDL-C-THIRD-DOLMEN",
           "corpro": "GMS",
