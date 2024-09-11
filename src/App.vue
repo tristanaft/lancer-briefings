@@ -158,7 +158,7 @@ export default {
         "headerTitle": "Union Navy",
         "headerSubtitle": "Rio Grande",
         "subheaderTitle": "Diplomatic Escort",
-        "subheaderSubtitle": "Sierra-Oscar-Romeo",
+        "subheaderSubtitle": "Oscar-Sierra-Romeo",
       },
       "options":{
         "eventsMarkdownPerMission": true
